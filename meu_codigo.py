@@ -98,4 +98,4 @@ def main(pagina):
     
     
 # 2 - Executar o sistema
-ft.app(main, view = ft.WEB_BROWSER)
+ft.app(main, view=ft.AppView.WEB_BROWSER)
